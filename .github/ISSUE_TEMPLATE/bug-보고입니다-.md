@@ -1,7 +1,7 @@
 ---
 name: Bug 보고입니다.
 about: Bug를 작성해주세요.
-title: "| Bug |"
+title: 'Bug:'
 labels: Bug
 assignees: ''
 
