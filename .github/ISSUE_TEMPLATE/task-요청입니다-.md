@@ -1,7 +1,7 @@
 ---
 name: Task 요청입니다.
 about: Task를 기록합니다.
-title: "| Feat : |"
+title: "| Feat |"
 labels: Feature
 assignees: ''
 
